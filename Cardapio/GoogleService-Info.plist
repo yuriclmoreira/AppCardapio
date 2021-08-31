@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>528256788859-mlldj33u6mh68i27mtk9c5h8ldt6hc3d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.528256788859-mlldj33u6mh68i27mtk9c5h8ldt6hc3d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDD6ZqXxnzdrqV-5NZcM_dwnZDObSGeOFo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>528256788859</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ModelagemSistemas.Cardapio</string>
+	<key>PROJECT_ID</key>
+	<string>cardapio-teste-v1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cardapio-teste-v1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:528256788859:ios:e6f8a34c8b0fe9d1b935de</string>
+	<key>DATABASE_URL</key>
+	<string>https://cardapio-teste-v1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
